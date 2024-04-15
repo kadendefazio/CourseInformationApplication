@@ -1,0 +1,16 @@
+C:\Users\kaden\source\repos\CourseInformation\CourseInformation\bin\Debug\net8.0-windows\CourseInformation.exe
+C:\Users\kaden\source\repos\CourseInformation\CourseInformation\bin\Debug\net8.0-windows\CourseInformation.deps.json
+C:\Users\kaden\source\repos\CourseInformation\CourseInformation\bin\Debug\net8.0-windows\CourseInformation.runtimeconfig.json
+C:\Users\kaden\source\repos\CourseInformation\CourseInformation\bin\Debug\net8.0-windows\CourseInformation.dll
+C:\Users\kaden\source\repos\CourseInformation\CourseInformation\bin\Debug\net8.0-windows\CourseInformation.pdb
+C:\Users\kaden\source\repos\CourseInformation\CourseInformation\obj\Debug\net8.0-windows\CourseInformation.Form1.resources
+C:\Users\kaden\source\repos\CourseInformation\CourseInformation\obj\Debug\net8.0-windows\CourseInformation.csproj.GenerateResource.cache
+C:\Users\kaden\source\repos\CourseInformation\CourseInformation\obj\Debug\net8.0-windows\CourseInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaden\source\repos\CourseInformation\CourseInformation\obj\Debug\net8.0-windows\CourseInformation.AssemblyInfoInputs.cache
+C:\Users\kaden\source\repos\CourseInformation\CourseInformation\obj\Debug\net8.0-windows\CourseInformation.AssemblyInfo.cs
+C:\Users\kaden\source\repos\CourseInformation\CourseInformation\obj\Debug\net8.0-windows\CourseInformation.csproj.CoreCompileInputs.cache
+C:\Users\kaden\source\repos\CourseInformation\CourseInformation\obj\Debug\net8.0-windows\CourseInformation.dll
+C:\Users\kaden\source\repos\CourseInformation\CourseInformation\obj\Debug\net8.0-windows\refint\CourseInformation.dll
+C:\Users\kaden\source\repos\CourseInformation\CourseInformation\obj\Debug\net8.0-windows\CourseInformation.pdb
+C:\Users\kaden\source\repos\CourseInformation\CourseInformation\obj\Debug\net8.0-windows\CourseInformation.genruntimeconfig.cache
+C:\Users\kaden\source\repos\CourseInformation\CourseInformation\obj\Debug\net8.0-windows\ref\CourseInformation.dll
